@@ -1,0 +1,12 @@
+**Questions and assiotated README.MD on github**
+set up repository on git hub
+creat lab1 folder on desktop
+open cmd from folder open image https://odetocode.com/odetocode.jpg
+copy url, type curl and paste url
+(image not working so type www.google.ie)
+curl www.google.ie
+this will display html
+---------------------
+curl -v https://odetocode.com/odetocode.jpg
+rips out header and content
+

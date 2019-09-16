@@ -1,0 +1,26 @@
+In the browser
+Go to nodejs.org
+go to downloads
+download binary zip file (64 bit)
+save in folder on desktop
+extract zip file
+in folder of file type cmd in the top line to open command
+-----------
+in the command line
+type dir to show directory
+type npm install -g @angular/cli
+to create new angular app
+type ng new hello-app
+(would you like to allow angular routing? YES)
+(what stylesheet format would you like to use? CSS)
+after installation
+change directory
+cd hello-app
+after directory change
+type code .
+this opens visual studio code
+paste directory followed by ng serve
+for example C:\Users\g00325226\Desktop\Angular\node-v10.16.3-win-x64\ng serve
+to check in browser type http://localhost:4400/
+upload to github
+------------
